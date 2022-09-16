@@ -1,4 +1,4 @@
-#Exercise 15.4
+#Exercise 15.4 & 15.5
 from random import choice
 
 class RandomWalk:
