@@ -1,4 +1,4 @@
-# Exercise 16.1 : Sitka Rainfall
+# Exercise 16.1 : Death Valley Rainfall
 import csv
 from datetime import datetime
 import matplotlib.pyplot as plt
